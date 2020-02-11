@@ -1,6 +1,6 @@
 
 #Libraries needed
-#setwd("C:/Users/brandie/Documents/grants/NHLBI R25")
+
 library(reshape2)
 library(data.table)
 library(randomForest)
