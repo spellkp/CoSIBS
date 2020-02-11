@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+Effects of maternal complications on circulating protein profiles in pre-term infants
 
-You can use the [editor on GitHub](https://github.com/spellkp/CoSIBS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Description: Infants born preterm (24 - 34 weeks post menstrual age) are at high risk for developing chronic lung disease of prematurity, also known as bronchopulmonary dysplasia (BPD), which is characterized by prolonged need for oxygen therapy, frequent pulmonary infections requiring hospitalizations, asthma, exercise intolerance, and pulmonary hypertension. BPD results from the adverse effects of early exposure to the extrauterine environment and the need for supportive interventions such as mechanical ventilation and high levels of oxygen delivery. These stimuli lead to inflammation of the immature lung and disrupt normal lung development. Recently, maternal complications resulting in premature birth have been associated with different inflammatory profiles. A better understanding of the mechanism of the risk associated with maternal complications and inflammation in the infant lung is needed. This project will use a high-dimensional proteomic platform (~1,100 analytes) to determine the association between maternal complications during pregnancy and protein profiles in the circulating blood of pre-term infants at risk for BPD.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Method: Developed random forest algorithm to identifying proteins are distinguished among antenatal events. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spellkp/CoSIBS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
